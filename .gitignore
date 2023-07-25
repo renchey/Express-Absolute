@@ -1,0 +1,40 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Environment variables
+.env*
+
+# Output of npm pack
+*.tgz
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Yarn Integrity file
+.yarn-integrity
+
+# macOS folder attributes
+.DS_Store
+
+# dist folder (for production)
+dist/
+build/
+out/
+
+# coverage folder (for testing)
+coverage/
+
+# Package Lock files
+package-lock.json
+
+# File Uploads Folder
+uploads
